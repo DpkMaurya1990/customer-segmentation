@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+
+# Secrets / keys
+*.pem
+*.key
+
+# Model artifacts (explicit decision later)
+*.pkl
+
+# IDEs
+.vscode/
