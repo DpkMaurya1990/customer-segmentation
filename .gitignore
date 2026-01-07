@@ -27,3 +27,6 @@ Thumbs.db
 
 # IDEs
 .vscode/
+
+# Allow deployment model explicitly
+!src/segmentation_model.pkl
